@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
 
+I'm a dedicated QA Automation Engineer with a passion for ensuring product quality through test automation. My focus is on Playwright, Selenium, and API testing. I enjoy solving complex problems, improving testing frameworks, and continuously learning new tools and technologies to enhance testing processes. Let's connect!
 <!--
 **Suparnas/Suparnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   <!-- Add more icons here -->
-<p align="center">
-  <img align="left" src="https://stackoverflow.com/users/6851888/suparna-soman&layout=compact" alt="Stack Overflow" />
-</p>
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suparnas&layout=compact" alt="Top Languages" />
 </p>
