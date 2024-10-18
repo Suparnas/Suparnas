@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suparnas&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suparnas&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suparnas&theme=dark" alt="GitHub Streak" />
+</p>
