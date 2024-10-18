@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <!-- Add more icons here -->
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suparnas&layout=compact&theme=dark" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suparnas&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
