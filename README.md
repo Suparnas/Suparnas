@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   <!-- Add more icons here -->
-
+<p align="center">
+  <img align="left" src="https://stackoverflow.com/users/6851888/suparna-soman&layout=compact" alt="Stack Overflow" />
+</p>
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suparnas&layout=compact" alt="Top Languages" />
 </p>
