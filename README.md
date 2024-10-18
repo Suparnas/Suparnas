@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Suparnas&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Suparnas&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suparnas&theme=dark" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suparnas" alt="GitHub Streak" />
 </p>
